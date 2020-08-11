@@ -1,5 +1,5 @@
 package com.model;
 
 public class Test {
-String data;
+String data,data2;
 }
